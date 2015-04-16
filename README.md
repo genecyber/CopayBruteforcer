@@ -20,7 +20,6 @@ I have included profile and wallet blobs from copay v0.9.1 and some from v0.9.9
 the correct password for v0.9.9 has been seeded into ./lists/john.txt
 the correct password for v0.9.1 exists in all lists
 
-Run it here: http://runnable.com/VS_amWEQLHs9Qb-v/output
 Edit and run here: http://runnable.com/VS_XfTqse5w85rpq/copaybruteforcer
 
 -Shannon Code (RibbitRewards)
