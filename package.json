@@ -1,0 +1,8 @@
+{
+  "name": "BruteCoPay",
+  "description": "Brute force encrypted copay blobs",
+  "version": "0.0.1",
+  "dependencies": {
+    "sjcl": "^1.0.2"
+  }
+}
