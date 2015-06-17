@@ -1,6 +1,8 @@
 # CopayBruteforcer
 Brute force encrypted Copay Blobs
 
+<img src="./images/static.png"/>
+
 Usage:
 ```
 git clone https://github.com/genecyber/CopayBruteforcer.git
@@ -8,6 +10,7 @@ npm install
 node App-SingleThreaded.js
 wait...
 ```
+<img src="./images/animated.gif"/>
 
 App.js can be used to multi-thread (set to 64 threads) using [jxcore](http://jxcore.com/home/)
 ```
@@ -20,6 +23,6 @@ I have included profile and wallet blobs from copay v0.9.1 and some from v0.9.9
 the correct password for v0.9.9 has been seeded into ./lists/john.txt
 the correct password for v0.9.1 exists in all lists
 
-Edit and run here: http://runnable.com/VS_XfTqse5w85rpq/copaybruteforcer
+Currently the encrypted blob and email address are hard coded inside the crack.js file
 
 -Shannon Code (RibbitRewards)
